@@ -1,31 +1,37 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Maskar</h1>
 <p align="center">
   <a href="https://github.com/Prathamesh-Maskar22">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Maskar22&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Maskar22&show_icons=true&theme=default" alt="GitHub Stats" />
   </a>
 </p>
 
 ### 👨‍💻 About Me
-I’m a passionate developer building web applications and learning new technologies 👨‍💻.  
-I love working on full-stack projects and solving real-world problems.
+
+I am a motivated **Full-Stack Developer** with hands-on experience building scalable web applications using modern JavaScript technologies.  
+I enjoy transforming ideas into functional products and continuously improving my technical skills through real-world projects.
 
 ---
 
 ### 💼 What I Do
 
-- 💻 I build full-stack web apps using **JavaScript / Node.js / React**
-- 📚 Learning **advanced backend & modern frameworks**
-- 🎯 Focused on building productive and real-world tools
+- Build responsive and user-focused web applications  
+- Develop RESTful APIs and backend services  
+- Work with databases for efficient data management  
+- Write clean, maintainable, and scalable code  
+- Continuously learn and apply modern development practices
 
 ---
 
 ### 🛠️ Skills & Tools
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| HTML/CSS | Node.js | MongoDB | Git & GitHub |
-| JavaScript | Express | MySQL | VS Code |
-| React | REST APIs | | Postman |
+| Category | Technologies |
+|--------|--------------|
+| **Languages** | JavaScript, HTML, CSS |
+| **Frontend** | React, Bootstrap |
+| **Backend** | Node.js, Express.js |
+| **Databases** | MongoDB, MySQL |
+| **Tools** | Git, GitHub, VS Code, Postman |
+| **Concepts** | REST APIs, MVC Architecture, Authentication |
 
 ---
 
@@ -33,10 +39,17 @@ I love working on full-stack projects and solving real-world problems.
 
 Here are a few public repositories you’ve built:
 
-🔹 **InventoryEase** – A product management system using React and Node.js  
-🔹 **Book-Review-System** – A book review platform with user auth  
-🔹 **CV-Insight** – AI-driven resume analysis & visualization platform
+**🔹 InventoryEase**  
+Product management system with CRUD operations and role-based access  
+**Tech:** React, Node.js, Express, MongoDB  
 
+**🔹 Book Review System**  
+Full-stack platform for reviewing and rating books with authentication  
+**Tech:** JavaScript, Node.js, MongoDB  
+
+**🔹 CV-Insight**  
+AI-driven resume analysis and visualization platform  
+**Tech:** React, APIs, Data Visualization
 *Explore more in your GitHub repositories!* :contentReference[oaicite:1]{index=1}
 
 ---
@@ -44,8 +57,7 @@ Here are a few public repositories you’ve built:
 ### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Prathamesh-Maskar22)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/prathamesh-maskar-77b707182)
 
 ---
 
