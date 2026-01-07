@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Maskar</h1>
 <p align="center">
   <a href="https://github.com/Prathamesh-Maskar22">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Maskar22&show_icons=true&theme=default" alt="GitHub Stats" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub Stats" />
   </a>
 </p>
 
